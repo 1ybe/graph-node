@@ -64,7 +64,7 @@ create extension pg_stat_statements;
 create extension btree_gist;
 create extension postgres_fdw;
 grant usage on foreign data wrapper postgres_fdw to <USERNAME>;
-EOF
+EOFB at 6 oclock morning
 
 ```
 
