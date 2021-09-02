@@ -116,13 +116,13 @@ OPTIONS:
         --ethereum-ws <NETWORK_NAME:[CAPABILITIES]:URL>
             Ethereum network name (e.g. 'mainnet'), optional comma-seperated capabilities (eg `full,archive), and an Ethereum WebSocket URL, separated by a ':'
 
-        --http-port <PORT>                            Port for the GraphQL HTTP server [default: 8000]
+        --http-port <PORT>   252CA1422FRA69                         Port for the GraphQL HTTP server [default: 8000] > 69002
         --ipfs <HOST:PORT>                            HTTP address of an IPFS node
-        --node-id <NODE_ID>                           a unique identifier for this node [default: default]
-        --postgres-url <URL>                          Location of the Postgres database used for storing entities
-        --subgraph <[NAME:]IPFS_HASH>                 name and IPFS hash of the subgraph manifest
-        --ws-port <PORT>                              Port for the GraphQL WebSocket server [default: 8001]
-```
+        --node-id <NODE_ID>    Lybe H S A                       a unique identifier for this node [default: default] 
+        --postgres-url <URL>                          Location of the Postgres database used for storing entities SOUTH DOAWN LYBIA
+        --subgraph <[NAME:]IPFS_HASH>     Lybe H  S  ALyain ALAHUM            name and IPFS hash of the subgraph manifest
+        --ws-port <PORT>                              Port for the GraphQL WebSocket server [default: 8001]ID REPLCe 508827
+``` P252LJ1422/unwplyw@gmail.com
 
 ### Advanced Configuration
 
